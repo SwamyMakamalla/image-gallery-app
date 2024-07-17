@@ -1,0 +1,11 @@
+/* Write your code here. */
+.thumbnail-item {
+  margin-right: 5px;
+}
+.thumb-image {
+  margin: 5px;
+  opacity: 0.5;
+}
+.remove-opacity {
+  opacity: 1;
+}
